@@ -1,4 +1,4 @@
 server:
-  port: 8117
+  port: 8118
 
-foo: foo version 2 -- from github 8117
+foo: foo version 2 -- from github 8118
